@@ -8,7 +8,7 @@ I study various approaches to define Ricci curvature on discrete spaces (graphs 
 
 ## Ph.D. Thesis
 
-Discrete curvatures motivated from Riemannian geometry and optimal transport: Bonnet-Myers-type diameter bounds and rigidity. [(archive)](http://etheses.dur.ac.uk/14124/) under the supervision of [Prof. Norbert Peyerimhoff](https://www.dur.ac.uk/mathematical.sciences/staff/academic/?id=1687), Durham University.
+Discrete curvatures motivated from Riemannian geometry and optimal transport: Bonnet-Myers-type diameter bounds and rigidity [(archive)](http://etheses.dur.ac.uk/14124/) - under the supervision of [Prof. Norbert Peyerimhoff](https://www.dur.ac.uk/mathematical.sciences/staff/academic/?id=1687), Durham University.
 
 ## Publications
 

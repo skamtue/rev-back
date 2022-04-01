@@ -10,7 +10,7 @@ Here are some GIFs of [_transport geodesics_].
 ![alt text](/images/anim-4cube.gif "4D cube")
 
 <figure style="width:300; float:left ; margin:0px; text-align:center; padding-right:32px;">	
-				<img src="anim-4cube.gif" style="width:300;border:5px groove #D2691E" /> 
+				<img src="/images/anim-4cube.gif" style="width:300;border:5px groove #D2691E" /> 
 				<figcaption>4-dimensional cube</figcaption>
 </figure>
 

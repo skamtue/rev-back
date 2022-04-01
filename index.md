@@ -11,6 +11,7 @@ Here are some GIFs of [_transport geodesics_].
 <img src="/images/anim-4cube.gif" style="width:300;border:5px groove #D2691E" /> 
 <figcaption>4-dimensional cube</figcaption>
 </figure>
+
 <figure style="width:300; float:left; margin:0px; text-align:center; padding-left:32px;">
 <img src="/images/anim-j84.gif" style="width:300;border:5px groove #DEB887" />
 <figcaption>Johnson graph J(8,4)</figcaption>

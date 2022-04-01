@@ -6,12 +6,7 @@ Hello, I am a postdoctoral researcher at [Yau Mathematical Sciences Center](http
 My research interest lies in Riemannian Geometry, Optimal Transport Thoery, and Graph Theory. In particular, I study Ricci curvature notions in discrete spaces.
 
 Here are some GIFs of [_transport geodesics_].
-
-![alt text](/images/anim-4cube.gif "4D cube")
-
 				
-<table width="875" align="center" cellpadding="20" cellspacing="0">
-<tr><td> 
 <figure style="width:300; float:left ; margin:0px; text-align:center; padding-right:32px;">	
 <img src="/images/anim-4cube.gif" style="width:300;border:5px groove #D2691E" /> 
 <figcaption>4-dimensional cube</figcaption>
@@ -20,6 +15,5 @@ Here are some GIFs of [_transport geodesics_].
 <img src="/images/anim-j84.gif" style="width:300;border:5px groove #DEB887" />
 <figcaption>Johnson graph J(8,4)</figcaption>
 </figure>
-</td></tr>				
-</table>
+
 

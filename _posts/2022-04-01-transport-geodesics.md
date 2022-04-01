@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Transport geodesics
+categories: Miscellaneous
 ---
 
-The concept of <b>transport geodesics</b> was introduced in <a href="{{ site.baseurl }}/research">[3]</a>.
+The concept of _transport geodesics_ was introduced in <a href="{{ site.baseurl }}/research">[3]</a>.
 They are traces of individual masses that move along a sequence of optimal transport plans. 
 If the concatenation of those optimal transport plans is also optimal (i.e., triangle inequality for L<sup>1</sup>-Wasserstein metric holds with equality),
 then all such traces must be geodesic. In short, transport geodesics are shortest paths which are constructed from optimal transport plans.

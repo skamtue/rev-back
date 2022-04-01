@@ -7,3 +7,5 @@ My research interest lies in Riemannian Geometry, Optimal Transport Thoery, and 
 
 Here are some GIFs of [_transport geodesics_].
 
+![alt text](/images/anim-4cube.gif "4D cube")
+
